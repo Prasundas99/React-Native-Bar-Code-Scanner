@@ -2,12 +2,8 @@
 A QR code scanner component for React Native.
 
 
+## Screenshot
 ![qrcode-reader](https://raw.githubusercontent.com/lazaronixon/react-native-qrcode-reader/master/screenshots/screen.png)
-
-## Getting started
-1. Install [react-native-camera](https://github.com/lwansbrough/react-native-camera/blob/master/README.md#getting-started).
-2. Copy QRCodeScreen.js to your project.
-
 
 
 ## Properties
